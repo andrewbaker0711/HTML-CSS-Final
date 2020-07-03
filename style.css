@@ -47,7 +47,7 @@ h1{
   width: 100vw;
   height: 60vh;
   padding-top: 3em;
-  background: url(/assets/Loud\ Cry.jpg) center 75% no-repeat fixed;
+  background: url(./assets/Loud\ Cry.jpg) center 75% no-repeat fixed;
   background-size: cover;
 }
 .header-tag{
